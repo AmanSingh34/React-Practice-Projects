@@ -1,0 +1,29 @@
+.main-container{
+  display: flex;
+}
+.footer{
+  position: relative;
+  bottom: 0;
+}
+.sidebar{
+  min-height: 745px;
+}
+.content{
+  width: 100%;
+}
+.post-card{
+  margin: 20px 30px;
+}
+.hashtag{
+  margin: 0px 3px;
+}
+.reactions{
+  margin: 15px 0 0 0;
+}
+.welcome{
+  margin: 100px 0;
+}
+
+.spinner{
+  margin: 100px 0;
+}
